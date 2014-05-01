@@ -1,7 +1,7 @@
 ICTE.RecruitmentTest
 ====================
 
-####JUST EAT ICT System Engineer Recruitment Test::
+####JUST EAT ICT System Engineer Recruitment Test:
 
 Thank you for taking the time to do our technical test.  The test consists for two parts:
 
@@ -9,7 +9,7 @@ Thank you for taking the time to do our technical test.  The test consists for t
 2. A few technical questions
 
 
-####Powershell coding test
+####Powershell coding test:
 
 - Intro 
 - The task
