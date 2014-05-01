@@ -26,4 +26,3 @@ Scenario
 - Domain controller FQDN “DC.aws.test”
 - DNS Server “DC.aws.test”
 - DNS IP “10.10.1.1”
-
